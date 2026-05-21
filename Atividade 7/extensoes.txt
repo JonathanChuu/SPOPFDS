@@ -1,0 +1,19 @@
+Lista de Extensões Essenciais para Desenvolvimento Web no VSCode:
+
+1. Live Server (ritwickdey.LiveServer)
+   - Cria um servidor local e recarrega a página automaticamente no navegador sempre que você salva o código HTML/CSS/JS.
+
+2. Prettier - Code formatter (esbenp.prettier-vscode)
+   - Formata o código automaticamente, mantendo a indentação e o estilo padronizados.
+
+3. Auto Rename Tag (formulahendry.auto-rename-tag)
+   - Quando você renomeia a tag HTML de abertura, ele renomeia automaticamente a tag de fechamento correspondente.
+
+4. ESLint (dbaeumer.vscode-eslint)
+   - Analisa o código JavaScript em busca de erros de sintaxe ou de estilo, ajudando a manter a qualidade do código.
+
+5. Material Icon Theme (PKief.material-icon-theme)
+   - Adiciona ícones amigáveis e fáceis de identificar para pastas e tipos de arquivos no explorador lateral do VSCode.
+
+6. CSS Peek (pranaygp.vscode-css-peek)
+   - Permite visualizar e editar regras CSS diretamente do arquivo HTML, clicando na classe ou ID.
